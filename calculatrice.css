@@ -1,0 +1,33 @@
+.calcu{
+  width:600px;
+  height:600px;
+  background-color:fuchsia;
+  border:2px solid;
+  margin:auto;
+  padding-left:5px;
+  padding-bottom:5px;
+        
+}
+.calcu td{
+ height:15%;
+}
+#td_resultat{
+ text-align:right;
+ 
+}
+#result_calcu
+{
+    width:90%;
+    height: 40px;
+    text-align:right;           
+}
+.td_btn{
+    width:25%;
+    height:100%;
+}
+.btn{
+ 
+    width:90%;
+    height:90%;
+    font-size:20px;
+}
